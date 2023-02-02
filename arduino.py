@@ -23,7 +23,7 @@ setup = True
 
 #
 #type the file name of the midi you would like to use
-#try to make it under 300 noes and make sure no 2 notes are playing at the same time
+#try to make it under 300 noes and make sure no more than 1 note is playing at a time
 midi_data = pretty_midi.PrettyMIDI('cats.mid')
 #
 #
