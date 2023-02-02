@@ -21,7 +21,14 @@ pause_st = 0
 
 setup = True 
 
+#
+#type the file name of the midi you would like to use
+#try to make it under 300 noes and make sure no 2 notes are playing at the same time
 midi_data = pretty_midi.PrettyMIDI('cats.mid')
+#
+#
+#
+
 print("duration:",midi_data.get_end_time())
 print(f'{"note":>10} {"start":>10} {"end":>10}')
 #for instrument in midi_data.instruments:
