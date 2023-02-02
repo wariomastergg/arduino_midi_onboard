@@ -19,12 +19,7 @@ paste the automaticailly copied data onto the labeles area in the INO file.
 assuming your midi only plays one note at a time on channel 0, it should work albeit a little buggy, i kinda made it in 2 days.
 
 
-put this stuff in the terminal before use:
-
-pip install pretty_midi
-
-pip install clipboard
-
+made by:
 
                                                                                                                                                              
 
