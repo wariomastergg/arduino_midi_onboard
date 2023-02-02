@@ -1,5 +1,8 @@
 # arduino_midi_onboard
 
+proof it works:
+https://www.youtube.com/watch?v=CpXse6n-Ny8
+
 you need python3, arduinoIDE and maybe a midi editor http://www.midieditor.org/ is a good one
 
 put this stuff in the terminal before use:
